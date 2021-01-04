@@ -1,1 +1,12 @@
 Ветки master и demo различаются файлом README
+10 коммитов
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+Merge branch 'hat'
+add hometask.txt
